@@ -297,7 +297,7 @@ Currently exploring:
 
 <!-- PROFILE IMAGE -->
 <img 
-  src="se_sachin_siddhartha.png" 
+  src="se_sachin_siddhartha.webp" 
   width="140"
   style="border-radius: 50%;"
   alt="Sachin Siddhartha"
