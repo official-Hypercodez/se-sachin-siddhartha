@@ -287,12 +287,36 @@ Currently exploring:
 
 - GitHub: https://github.com/se-sachin-siddhartha
 - Knowzup: https://knowzup.rf.gd
-
+- Instagram: https://instagram.com/se_sachin_siddhartha
 ---
 
 <div align="center">
 
 ### “Most people wait for perfect conditions.  
 ### I started with a 2011 laptop and built anyway.”
+
+<!-- PROFILE IMAGE -->
+<img 
+  src="se_sachin_siddhartha.png" 
+  width="140"
+  style="border-radius: 50%;"
+  alt="Sachin Siddhartha"
+/>
+
+<br/>
+<br/>
+
+<!-- APP LOGO -->
+<img 
+  src="knowzup.png" 
+  width="120"
+  alt="Knowzup Logo"
+/>
+
+<br/>
+
+# Hi, I'm Sachin Siddhartha 👋
+
+### Creator of Knowzup — Multimedia Knowledge Platform
 
 </div>
